@@ -4,17 +4,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Live Demo: [Vercel](https://result-summary-delta-gilt.vercel.app/)
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-
-
 
 ## Overview
 
